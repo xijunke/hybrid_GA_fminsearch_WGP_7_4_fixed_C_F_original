@@ -1,8 +1,8 @@
-# 说明注释区别(Explanation of differences in annotations)
+# Aerodynamic force，moment and power with/without including inertial force for Optimal Wing Geometry Parameters
 
-# 由hybrid_GA_fminsearch_wings_morphology_6修改而来，20160106日之前该论文的一些气动力和力矩以及功率的计算程序有小错误
+## 由hybrid_GA_fminsearch_wings_morphology_6修改而来，20160106日之前该论文的一些气动力和力矩以及功率的计算程序有小错误
 
-# 目前改程序已经修改，几近正确
+### 目前改程序已经修改，几近正确
 
 0.hybrid_GA_fminsearch_WingM4_4_2由hybrid_GA_fminsearch_WingM4_4_1进化修改而来
 
